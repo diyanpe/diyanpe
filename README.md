@@ -1,6 +1,6 @@
 # Hi, I'm Diyan Pebriyanti 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Information+Systems+Graduate;Data+Analyst+%7C+System+Analyst;Data+Analytics+%7C+Business+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Information+Systems+Graduate;Data+Analyst+%7C+System+Analyst;Business+Intelligence)](https://git.io/typing-svg)
 
 ## About Me
 
