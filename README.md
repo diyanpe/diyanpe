@@ -6,14 +6,13 @@
 
 * 🎓 **Information Systems Graduate** from Institut Teknologi Nasional Bandung (ITENAS) — **GPA 3.37**
 * 📊 Experienced as a **Data Analyst Intern** at PT Telkom Indonesia
-* 💡 Interested in **Data Analytics, Data Science, Business Intelligence, and System Analysis**
-* 💼 Open to **full-time opportunities and freelance projects**
+* 💡 Interested in **Data Analytics, Data Visualization, Business Intelligence, and System Analysis**
+* 💼 Open to **job opportunities and freelance projects**
 
 ## My Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
