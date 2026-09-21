@@ -23,10 +23,7 @@
 
 ## Connect with Me 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diyan%20Pebriyanti-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/diyan-pebriyanti/)
-
-[![Email](https://img.shields.io/badge/Email-pebriyantidiyan%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:pebriyantidiyan@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diyan%20Pebriyanti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyan-pebriyanti/)
 ---
 
 *Turning data into insights and business needs into practical solutions.*
