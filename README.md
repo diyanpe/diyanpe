@@ -4,8 +4,6 @@
 
 ## About Me
 
-* 🎓 **Information Systems Graduate** from Institut Teknologi Nasional Bandung (ITENAS) — **GPA 3.37**
-* 📊 Experienced as a **Data Analyst Intern** at PT Telkom Indonesia
 * 💡 Interested in **Data Analytics, Data Visualization, Business Intelligence, and System Analysis**
 * 💼 Open to **job opportunities and freelance projects**
 
